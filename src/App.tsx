@@ -22,7 +22,7 @@ export default function Home() {
             <ModeToggle />
           </div>
           <AnimatedShinyText className="inline-flex items-center justify-center px-4 py-1 transition ease-out hover:text-neutral-600 hover:duration-300 hover:dark:text-neutral-400">
-          <span className='text-3xl'>Share Your Thoughts ✨</span>
+          <span className='md:text-5xl text-2xl'>Share Your Thoughts ✨</span>
         </AnimatedShinyText>
           <p className="text-muted-foreground">Share your story with the world, anonymously.</p>
         </div>
